@@ -1,0 +1,8 @@
+Ohio State,osu, Feb 11, Buckeyes, (15-13), Saturday, 6:00 PM, Value City Arena, Columbus OH, 67-80, Final
+Florida State,fsu, Feb 12, Seminoles, (21-6), Sunday, 6:00 PM, Purcell Pavilion, Notre Dame IN, 72-84, Final
+Wake Forest,wf, Feb 14, Deamon Deacons, (15-12), Tuesday, 7:30 PM, Purcell Pavilion, Notre Dame IN, 81-88, Final
+Boston College,bc, Feb 16, Eagles, (9-18), Thursday, 6:00 PM, Conte Forum, Chestnut Hill MA, 76-84, Final
+NC State,ncs, Feb 19, Wolfpack, (14-14), Sunday, 12:30 PM, PNC Arena, Raleigh NC, 72-81, Final
+Georgia Tech,gt, Feb 20, Yellow Jackets, (16-11), Monday, 7:30 PM, Purcell Pavilion, Notre Dame IN, 0-0, N/A
+Virginia,v, Feb 21, Cavaliers, (18-8), Tuesday, 6:00 PM, Purcell Pavilion, Notre Dame IN, 0-0, N/A
+Chicago State,cs, Feb 24, Cougars, (6-22), Friday, 7:30 PM, Purcell Pavilion, Notre Dame IN, 0-0, N/A

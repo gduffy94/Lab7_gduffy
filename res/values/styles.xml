@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MyMaterialTheme" parent="SuperMaterialTheme">
+
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/light_gray</item>
+        <item name="android:colorPrimaryDark">@color/black</item>
+
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:colorControlNormal">@color/dark_gray</item>
+        <item name="android:colorControlHighlight">@color/light_gray</item>
+        <item name="android:colorControlActivated">@color/light_gray</item>
+        <item name="android:elevation">@color/dark_gray</item>
+
+    </style>
+    <style name="SuperMaterialTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="MyToolbarTheme" parent="SuperToolbarTheme">
+    <item name="android:textColorPrimary">@color/white</item>
+    <item name="android:textColorSecondary">@color/light_gray</item>
+    <item name="android:background">@color/background</item>
+    </style>
+
+    <style name="SuperToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/light_gray</item>
+        <item name="android:background">@color/background</item>
+    </style>
+
+    <style name="SuperPopupTheme" parent="ThemeOverlay.AppCompat.Light">
+
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/light_gray</item>
+        <item name="android:colorPrimaryDark">@color/black</item>
+        <item name="android:background">@color/background</item>
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:colorControlNormal">@color/dark_gray</item>
+        <item name="android:colorControlHighlight">@color/light_gray</item>
+        <item name="android:colorControlActivated">@color/light_gray</item>
+
+    </style>
+
+</resources>
